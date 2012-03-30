@@ -4,6 +4,7 @@
 www.urbandictionary.com/define.php?term=honker
 
 initial patch applied to the original x910-opensource-kernel to make comaptible(hopefully) with the x920
+(also to remove numerous compelation errors due to trailing spaces and impropper notations)
 
 Only in .: aptus.initramfs.tar.gz
 diff -r ./arch/arm/configs/vinsq_android_defconfig ../../qn_orig/Kernel//arch/arm/configs/vinsq_android_defconfig
